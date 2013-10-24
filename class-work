@@ -1,0 +1,101 @@
+<head>
+    <link href='http://fonts.googleapis.com/css?family=Raleway+Dots' rel='stylesheet' type='text/css'>
+	
+    <style>
+        
+        h1 {
+            color: red;
+        }
+        
+        h2 {
+            color: orange;
+        }
+		#container{
+				background-color: gray;
+				width: 960px
+				margin: 0 auto;
+				hieght: 1000px;
+				
+		}
+		#sidebar{
+			width: 200px;
+			float: left;
+		}
+        
+        .page-number {
+            font-size: 125%
+        }
+        
+        h1, h2, h3 {
+            font-family: 'Raleway Dots', cursive;
+        }
+        
+        p {
+            
+        
+        
+    </style>
+</head>
+
+
+<body>
+<div id="container">
+
+<p>VOL.184 NO.8
+    <h1>ScienceNews</h1>
+    <h2>Features</h2>
+    <h3><span class="page-number">19</span> Voyager's View</h3>
+    <p>Through the 1970's-era space probe has finally slipped into an interstellar realm, in some 
+        senses it is still very much within the bounds of the solar system.<em> By Andrew Grant</em>
+    </p>
+    <h3><span class="page-number">22</span> Deep Network</h3>
+    <p><strong>COVER STORY</strong> Oceanographers have put a swath of North Pacific seafloor online,
+        bringing a little-known realm within reach of anyone with an internet connection.<em>By 
+            Jessica Shugart</em></p>
+    <h3><span class="page-number">28</span> Memory Upgrade</h3>
+    <p>Advances in processor speed let today's computers do amazing things. But without parallel
+    improvements in data storage and retrieval, their potential is limited.<em>By Andrew Grant</em></p>
+
+<p><img src="http://http://www.timlockridge.com/sciencenews/servers.png"></p>
+
+	<div id="sidebar">
+
+    <h2>News</h2>
+        <p><strong><span class="page-number">6</span></strong> Lion, tiger and snow leopard DNA shows how evolution saped big cats into consummate hunters.</p>
+        <p><strong><span class="page-number">7</span></strong> Curiousity finds no methane on Mars, diminishing the case for life on the Red Planet.</p>
+        <p>Traces of water, but nothing organic, show up in the rover's first soil sample.</p>
+        <p><strong><span class="page-number">8</span></strong> The perfect poker face is not enough: Awkward arm can betray a bluffer.</p>
+        <p>Associations between smells and fear can be undone during sleep.</p>
+        <p><strong><span class="page-number">10</span></strong> Termites use their own feces to fungus-proof their homes, foiling efforts to naturally control the pests.</p>
+        <p>Most people may have had a brush with leukemia, new research suggests but their killer T cells have kept it at bay.</p>
+        <p><strong><span class="page-number">11</span></strong> Silver makes a bacterial battery rechargeable and more reliable at generating electricity from wastewater.</p>
+        <p><strong><span class="page-number">12</span></strong> Vitamin E prevents static shock to electronics by soaking up radicals.</p>
+			</div>
+        
+        <p><img src="http://http://www.timlockridge.com/sciencenews/lion.png"></p>
+        <p>Signs of oxygen 3 billion years ago may indicate that photosynthesis arose earlier than thought.</p>
+        <p><strong><span class="page-number">14</span></strong> Babies born at home face 10 times as much risk of life-threatening complications as hose delivered in hospitals.</p>
+        <p><strong><span class="page-number">16</span> News in Brief</strong><br>Cutting greenhouse emissions would save millions with air-quality benefits alone, cometary crashes could have generated the molecular seeds of life and more stories in brief.</p>
+
+
+
+<p><img src="http://http://www.timlockridge.com/sciencenews/gravity.png"></p>
+
+
+
+
+<h2>Departments</h2>
+<p><span class="page-number">2</span> EDITOR'S NOTES</p>
+<p><span class="page-number">4</span> NOTEBOOK</p>
+<p>A vampire bat's life is hardly a gothic romance</p>
+<p><span class="page-number">32</span> SOCIETY NEWS</p>
+<p>Broadcom MASTERS winners announced</p>
+<p><span class="page-number">34</span> REVIEWS & PREVIEWS</p>
+<p>NASA weighs in on the reality of gravity</p>
+<p><span class="page-number">36</span> FEEDBACK</p>
+<p><span class="page-number">38</span> SCIENCE VISUALIZED</p>
+<p>Primes seem to travel in pairs but its hard to prove.</p>
+
+</div> 
+    
+</body>

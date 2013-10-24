@@ -2,7 +2,7 @@
     <link href='http://fonts.googleapis.com/css?family=Raleway+Dots' rel='stylesheet' type='text/css'>
 	
     <style>
-        
+       
         h1 {
             color: red;
         }
@@ -12,14 +12,23 @@
         }
 		#container{
 				background-color: gray;
-				width: 960px
+				width: 400px
 				margin: 0 auto;
-				hieght: 1000px;
+			
 				
 		}
 		#sidebar{
 			width: 200px;
 			float: left;
+		}
+		#features{
+			width: 200px;
+			float: left;
+		}
+		#departments{
+			width: 200px;
+			float: left;
+		
 		}
         
         .page-number {
@@ -43,6 +52,9 @@
 
 <p>VOL.184 NO.8
     <h1>ScienceNews</h1>
+	
+	<div id="features">
+	
     <h2>Features</h2>
     <h3><span class="page-number">19</span> Voyager's View</h3>
     <p>Through the 1970's-era space probe has finally slipped into an interstellar realm, in some 
@@ -55,6 +67,7 @@
     <h3><span class="page-number">28</span> Memory Upgrade</h3>
     <p>Advances in processor speed let today's computers do amazing things. But without parallel
     improvements in data storage and retrieval, their potential is limited.<em>By Andrew Grant</em></p>
+	</div>
 
 <p><img src="http://http://www.timlockridge.com/sciencenews/servers.png"></p>
 
@@ -70,12 +83,13 @@
         <p>Most people may have had a brush with leukemia, new research suggests but their killer T cells have kept it at bay.</p>
         <p><strong><span class="page-number">11</span></strong> Silver makes a bacterial battery rechargeable and more reliable at generating electricity from wastewater.</p>
         <p><strong><span class="page-number">12</span></strong> Vitamin E prevents static shock to electronics by soaking up radicals.</p>
-			</div>
+		
         
         <p><img src="http://http://www.timlockridge.com/sciencenews/lion.png"></p>
         <p>Signs of oxygen 3 billion years ago may indicate that photosynthesis arose earlier than thought.</p>
         <p><strong><span class="page-number">14</span></strong> Babies born at home face 10 times as much risk of life-threatening complications as hose delivered in hospitals.</p>
         <p><strong><span class="page-number">16</span> News in Brief</strong><br>Cutting greenhouse emissions would save millions with air-quality benefits alone, cometary crashes could have generated the molecular seeds of life and more stories in brief.</p>
+		</div>
 
 
 
@@ -83,7 +97,7 @@
 
 
 
-
+<div id="departments">
 <h2>Departments</h2>
 <p><span class="page-number">2</span> EDITOR'S NOTES</p>
 <p><span class="page-number">4</span> NOTEBOOK</p>
@@ -95,6 +109,7 @@
 <p><span class="page-number">36</span> FEEDBACK</p>
 <p><span class="page-number">38</span> SCIENCE VISUALIZED</p>
 <p>Primes seem to travel in pairs but its hard to prove.</p>
+	</div>
 
 </div> 
     
